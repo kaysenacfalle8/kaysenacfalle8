@@ -32,9 +32,6 @@ Currently studying for **CompTIA Security+** while expanding my homelab with **K
 
 ---
 
-### 📈 GitHub Stats  
-![Kaysen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaysenacfalle8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaysenacfalle8&layout=compact&theme=tokyonight)
 
 ---
 
