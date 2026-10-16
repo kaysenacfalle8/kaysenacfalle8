@@ -2,7 +2,6 @@
 
 🎓 **Junior at Gonzaga University** — Expected Graduation: May 2028  
 💼 **Management Information Systems Major | Computer Science Minor**  
-🔐 **CompTIA Security+ Certified**  
 🌍 **Currently Studying Abroad in Madrid, Spain**
 
 I'm passionate about **cybersecurity, automation, data analytics, and building technology that solves real-world problems.**
